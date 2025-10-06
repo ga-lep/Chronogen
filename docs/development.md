@@ -7,6 +7,8 @@ This project follows a standard `src/` layout with packaging metadata defined in
 - Python 3.8+
 - `pip` for dependency management
 
+[Create and activate a Python 3 virtual environment.](https://docs.python.org/3/tutorial/venv.html)
+
 Install dev dependencies:
 
 ```bash
